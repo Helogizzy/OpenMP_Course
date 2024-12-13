@@ -27,12 +27,3 @@ O conteúdo do curso está dividido em módulos que abordam tanto os aspectos te
 ### Requisitos
 
 Para acompanhar o curso, o aluno deve ter conhecimentos básicos de programação em C e noções de sistemas operacionais. Não são necessários conhecimentos prévios sobre programação paralela, pois o curso começa com uma introdução aos conceitos fundamentais.
-
-### Como Usar
-
-Para começar, basta clonar o repositório e seguir as instruções do arquivo `README.md` em cada módulo, que fornece o passo a passo para implementação dos exemplos.
-
-```bash
-git clone https://github.com/Helogizzy/Curso-Programacao-Paralela.git
-cd Curso-Programacao-Paralela
-# OpenMP_Course
